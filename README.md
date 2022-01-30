@@ -9,13 +9,13 @@ Rules of the game:
 
 - When losing, the losing screen is shown, which shows the current points scored and the exit button to the menu.
 
-All parameters should be easily editable.
+- All parameters should be easily editable.
 
-The difficulty of the game increases with time. At the start of the game, 1 zombie spawns every 2 seconds, every 10 seconds the game reduces the spawn time by 0.1 seconds, to a minimum value of 0.5.
+- The difficulty of the game increases with time. At the start of the game, 1 zombie spawns every 2 seconds, every 10 seconds the game reduces the spawn time by 0.1 seconds, to a minimum value of 0.5.
 
-Has a rate of fire of 10 shots per second, each bullet takes 1 HP from zombies
+- Has a rate of fire of 10 shots per second, each bullet takes 1 HP from zombies
 
-In total there will be 3 types of zombies:
+- In total there will be 3 types of zombies:
 Zombie - ordinary. It has a speed of 2 units per second and 10 hp, 7 points are given for killing it. Spawn chance - 60%
 Zombies - experienced. It has a speed of 3 units per second and 10 hp, 12 points are awarded for killing it. Spawn chance - 30%
 Armored zombie. It has a speed of 1 unit per second and 50 hp, 30 points are given for killing it. Spawn chance - 10%
